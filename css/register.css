@@ -1,0 +1,74 @@
+body, html {
+    height: 100%;
+    background-color: transparent;
+    position: relative;
+    color: #ff849c;
+}
+
+
+
+label {
+    font-weight: bold;
+}
+
+
+#registerform input[type=text], textarea, input[type=email], #registerform input[type=password] ,#registerform input[type=contact],input[type=tel]{
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */ 
+    border: 1px solid #ff849c; /* Pink border */
+    border-radius: 4px; /* Rounded borders */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-bottom: 8px; /* Bottom margin */
+    resize: vertical /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+input, textarea {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+/* Style the submit button with a specific background color etc */
+input[type=button], input[type=reset] {
+    color: #ff849c;
+    padding: 6px 10px;
+    border: solid #ff849c;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=button]:hover , input[type=reset]:hover{
+    border-style: solid;
+    background-color: rgba(255, 255, 255, 0.7);
+    transform: translateY(4px);
+}
+/* Add a background color and some padding around the form */
+
+h1, p{
+  text-align: center;
+  padding: 0px 100px 0px 100px;
+}
+
+
+h4{
+    text-align: center;
+    margin-top: 50px;
+}
+
+#registerform{
+    padding: 100px 200px 0px 200px;
+    position: absolute;
+}
+
+input[type=button], input[type=reset] {
+     color: #ff849c;
+    padding: 6px 10px;
+    border: solid #ff849c;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#registerform {
+    margin-bottom: 10px;
+}

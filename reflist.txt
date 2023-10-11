@@ -1,0 +1,37 @@
+Reference List
+
+1. Youtube Data Api (Author: Google)
+http://klein-itblog.com/youtubedataapi-php-search/
+
+2.Google Oauth2 (Author: Google)
+https://developers.google.com/identity/protocols/OAuth2
+
+3. PDF Generation 1
+http://www.mrmu.com.tw/2011/07/25/php-tcpdf-utf-8-pdf-report/
+
+4.PDF Generation 2 (Author: TCPDF)
+https://tcpdf.org/
+
+5.Sandbox Paypal setup (Author: Paypal)
+https://www.sandbox.paypal.com/
+
+6.Image Modal
+https://www.w3schools.com/howto/howto_css_modal_images.asp
+
+7.Google Calendar event insert
+http://usefulangle.com/post/29/google-calendar-api-create-event-php
+
+8.Youtube Data api(Author: Google)
+https://developers.google.com/youtube/v3/quickstart/php
+
+9.Google place api (client side) (Author: Google)
+https://developers.google.com/places/?hl=zh-tw
+
+10.Google place api (server side) (Author: Google)
+https://www.codeofaninja.com/2014/06/google-maps-geocoding-example-php.html
+
+11. Font
+fonts.google.com
+
+12.Password hash
+http://php.net/manual/en/function.password-hash.php
